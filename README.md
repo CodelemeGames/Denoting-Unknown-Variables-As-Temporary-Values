@@ -37,6 +37,6 @@ To which <mi>x</mi> is unknown, and <mi>&#953;</mi> is what shall be used in itâ
 </math>
 
 
-<mi>x</mi> is never given a value, but <mi>&#953; = 2</mi>, which means <mi>x</mi> in that case is also <mi>2</mi>, allowing for it to be given a temporary answer of <mi>8</mi>, ready for <mi>x</mi> to be given a definite value.
+<mi>x</mi> is never given a value, but <mi>&#953; = 2</mi>, which means <mi>x</mi> in that case is also <mi>2</mi>, allowing for the equation to be given a temporary answer of <mi>8</mi>, ready for <mi>x</mi> to be given a definite value.
 
 <mi>x</mi> still exists in the equation, it is where the notation is denoted, it is not a rule for anything else in the equation, only for that specific variable.
