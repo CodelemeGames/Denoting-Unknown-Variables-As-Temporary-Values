@@ -1,6 +1,6 @@
 # Denoting Unknown Variables As Temporary Values
 
-Throughout mathematics, formulae that expect data you may not have can be a roadblock in the calculation process. Many mathematicians have expressed temporary values for data that is to be substituted later in many different ways; it is a very common practice throughout the history of the discipline to utilise either a unique but documented method for expressions, or a more widely used one. Though I propose a more unified approach, to which clearly states what shall be used in it’s place. Here is the template of the notation:
+Throughout mathematics, formulae that expect data you may not have can be a roadblock in the calculation process. Many mathematicians have expressed temporary values for data that is to be substituted later in many different ways; it is a very common practice throughout the history of the discipline to utilise either a unique but documented method for expressions, or a more widely used expression. Though I propose a more unified approach, to which clearly states what shall be used in it’s place. Here is the template of the notation:
 
 <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mi>[</mi>
