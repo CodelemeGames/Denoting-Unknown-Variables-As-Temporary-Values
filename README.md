@@ -12,7 +12,7 @@ Throughout mathematics, formulae that expect data you may not have can be a road
   <mi>]</mi>
 </math>
 
-To which  is unknown, and  is what shall be used in it’s place temporarily. Here is an example of it in use:
+To which <mi>x</mi> is unknown, and <mi>&#953;</mi> is what shall be used in it’s place temporarily. Here is an example of it in use:
 
 <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mi>[</mi>
