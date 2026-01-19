@@ -43,7 +43,7 @@ To which <mi>x</mi> is unknown, and <mi>&#953;</mi> is what shall be used in itâ
 
 You can also use the notation outside of an equation, and state that it is in use for this instance. Here is an example:
 
-[x -> 2] and [v -> 5] <br>
+[ x -> 2 ] and [ v -> 5 ] <br>
 f(x) = x^2 * v <br>
 f(2) = 2^2 * 5 <br>
 f(2) = 20 <br>
