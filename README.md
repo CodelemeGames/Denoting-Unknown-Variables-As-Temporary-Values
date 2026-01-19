@@ -48,4 +48,4 @@ f(x) = x^2 * v <br>
 f(2) = 2^2 * 5 <br>
 f(2) = 20 <br>
 
-Thank you for your time and consideration
+Thank you for your time and consideration.
